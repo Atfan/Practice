@@ -33,5 +33,5 @@ void Student::Print()
 	cout << "\nPhone: " << this->phone;
 	cout << "\nInstitution: " << this->institution;
 	cout << "\nAddress: " << this->address;
-	cout << "\nGroupe: " << this->groupe;
+	cout << "\nGroupe: " << this->groupe<< endl<<endl;
 }
